@@ -1,0 +1,6 @@
+Diabetes_Diet_Planner_and_Prediction_System
+Software And Tools Requirements
+Github Account
+HerokuAccount
+VSCodeIDE
+GitCLI
